@@ -1,7 +1,6 @@
 #!/bin/bash
 # Simple Password Generator - Jared Langford - Inspired by Hackersploit on YT
 
-#Ask how long of a password the user needs and then store in PASS_LENGTH
 echo "  _____                                    _    _____ ______ _   _ ";
 echo " |  __ \                                  | |  / ____|  ____| \ | |";
 echo " | |__) |_ _ ___ _____      _____  _ __ __| | | |  __| |__  |  \| |";
